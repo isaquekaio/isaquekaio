@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **isaquekaio/isaquekaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Isaque Kaio 
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/isaquekaio)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaque-kaio-463a76136/)](https://www.linkedin.com/in/isaque-kaio-463a76136/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/isaque_kaio/)](https://www.instagram.com/isaque_kaio/)
+
+
+<img src="https://github-readme-stats.yiskw713.vercel.app/api/top-langs/?username=isaquekaio&hide=assembly,scilab&layout=compact&theme=monokai&card_width=500" />
