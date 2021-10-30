@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Isaque Kaio 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/isaquekaio)](https://github.com/isaquekaio)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaque-kaio-463a76136/)](https://www.linkedin.com/in/isaque-kaio-463a76136/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaque-kaio/)](https://www.linkedin.com/in/isaque-kaio-463a76136/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/isaque_kaio/)](https://www.instagram.com/isaque_kaio/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaquekaio&count_private=true&langs_count=10&hide=XSLT&card_width=500&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
